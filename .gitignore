@@ -1,0 +1,16 @@
+env
+config.py
+**/__pycache__
+.vscode
+
+controller/galletas_controller.py
+controller/produccion_controller.py
+controller/portal_controller.py
+
+static/js/modal.js
+static/js/portal_cliente.js
+static/js/ordenes.js
+
+view/galleta/
+view/portal/
+view/produccion/
